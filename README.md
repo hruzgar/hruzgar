@@ -1,8 +1,8 @@
-### 🙌 Intro
+## 🙌 Intro
 Hi my name is Hasan and I am a CS freshman student at Uludag University. Since my childhood I had a keen interest in Computers and how they work. So following that interest I am writing programs to solve problems in an algoritmic way (I think I got too far in my Intro lol).
 
 
-
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hruzgar&layout=compact)](https://github.com/hruzgar/github-readme-stats)
 
 
