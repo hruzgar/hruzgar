@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🙌 Intro
+Hi my name is Hasan and I am a CS freshman student at Uludag University. Since my childhood I had a keen interest in Computers and how they work. So following that interest I am writing programs to solve problems in an algoritmic way (I think I got too far in my Intro lol).
+
 
 ![hruzgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hruzgar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hruzgar&layout=compact)](https://github.com/hruzgar/github-readme-stats)
 
-<a href="https://github.com/hruzgar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hruzgar&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hruzgar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+
 
 <!--
 **hruzgar/hruzgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
