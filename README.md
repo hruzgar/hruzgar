@@ -7,7 +7,7 @@ Hi my name is Hasan and I am a CS freshman student at Uludag University. Since m
 
 ## 📫 Contact
 - [hasanruzweb@gmail.com](mailto:hasanruzweb@gmail.com)
-- [Linkedin][https://www.linkedin.com/in/hruzgar/]
+- [Linkedin](https://www.linkedin.com/in/hruzgar/)
 
 
 
