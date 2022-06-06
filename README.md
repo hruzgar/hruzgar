@@ -1,7 +1,12 @@
 ## 🙌🏻 Intro
 Hi my name is Hasan and I am a CS freshman student at Uludag University. Since my childhood I had a keen interest in Computers and how they work. So following that interest I am writing programs to solve problems in an algoritmic way (I think I got too far in my Intro lol).
 
-## 📫 Contact
+## 🔭 Projects
+- I placed 4th in the [Weboost Hackathon](https://github.com/hruzgar/weboost2022) with my wonderful team.
+- I wrote a webscraper named [ukeydl](https://github.com/hruzgar/ukey-downloader), helping all the students at our university, downloading the lecture notes and sorting them accordingly
+- I wrote my own [personal webpage](http://ruzgar.eu/) with HTML and CSS. After some big thinking I decided to let my page be minimal and got to work. I am planning to develop a blog page. Maybe with another domain. I want them to be seperate
+
+## 📫 How to reach me
 - [hasanruzweb@gmail.com](mailto:hasanruzweb@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/hruzgar/)
 
