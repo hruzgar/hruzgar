@@ -1,5 +1,5 @@
 ## 🙌🏻 Intro
-Hi my name is Hasan and I am a CS freshman student at Uludag University. Since my childhood I had a keen interest in Computers and how they work. 
+Hi my name is Hasan and I am a CS freshman student at TUM. Since my childhood I had a keen interest in Computers and how they work. 
 
 ## 🔭 My Projects and What I Do
 - We placed 4th in the [Weboost Hackathon](https://github.com/hruzgar/weboost2022) with my wonderful team.
