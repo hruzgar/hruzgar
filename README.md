@@ -11,7 +11,7 @@ Hi my name is Hasan and I am a CS freshman student at TUM. Since my childhood I 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hruzgar&layout=compact)](https://github.com/hruzgar/github-readme-stats)
 
 ## 📫 How to reach me
-- [Mail](mailto:hasanruzweb@gmail.com)
+- [Mail](mailto:haso@ruezgar.de)
 - [Linkedin](https://www.linkedin.com/in/hruzgar/)
 
 
