@@ -1,6 +1,3 @@
-## 🙌🏻 Introduction
-Hello! I'm Hasan, a CS freshman at TUM. Since childhood, I've been deeply fascinated by computers and their intricate workings.
-
 ## 🔭 My Endeavors and Projects
 - Among my proudest projects is [artemis-dl](https://github.com/hruzgar/artemis-dl), an application tailored to streamline the download/archival process for my current universities ([TUM](https://tum.de)) Artemis platform.
 - Our outstanding team secured the 4th position in the [Weboost Hackathon](https://github.com/hruzgar/weboost2022).
